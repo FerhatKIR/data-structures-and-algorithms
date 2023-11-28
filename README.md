@@ -1,4 +1,4 @@
-### Proje 1
+### Project 1
 
 1. Insertation Sort aşamaları:
 ```bash
